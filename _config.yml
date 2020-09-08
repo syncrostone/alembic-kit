@@ -20,8 +20,8 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'syncrostone.github.io'
+baseurl: 'alembic-kit'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
