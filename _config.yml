@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'syncrostone.github.io'
-baseurl: 'alembic-kit'
+baseurl: '/alembic-kit'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
